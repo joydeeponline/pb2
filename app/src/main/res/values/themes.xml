@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.PrabhatFloorSolutions" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/pfs_primary_dark</item>
+        <item name="colorPrimary">@color/pfs_primary</item>
+        <item name="colorPrimaryDark">@color/pfs_primary_dark</item>
+    </style>
+</resources>
